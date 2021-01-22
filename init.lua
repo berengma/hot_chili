@@ -34,5 +34,6 @@ end
 -- registration of hot food
 
 hot_chili.register_hot_food("farming:chili_pepper",10)
-
+hot_chili.register_hot_food("farming:chili_bowl",20)
+hot_chili.register_hot_food("farming:chili_bibimbap",20)
 
